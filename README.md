@@ -63,7 +63,7 @@ Repositório das melhores visualizações de dados de 2013 no Brasil. A ser publ
 
 ## O
 
-(projetos entram aqui)
+- **Olho nas Emendas**: Mapeamento das emendas parlamentares de deputados e senadores com filtros por parlamentar, por partido ou por região. URL: http://olhonasemendas.com.br/
 
 ## P
 
@@ -75,7 +75,7 @@ Repositório das melhores visualizações de dados de 2013 no Brasil. A ser publ
 
 ## R
 
-(projetos entram aqui)
+- **Retórica Parlamentar**: Visualização da ênfase temática dos deputados brasileiros durante seus discursos. Desenvolvido durante o Hackathon da Câmara dos Deputados. URL: http://www.retoricaparlamentar.com/
 
 ## S
 
